@@ -539,6 +539,16 @@ input:focus {
     cursor: pointer;
 }
 
+
+.col-more-product{
+    /* display: flex; */
+    /* justify-content: flex-end; */
+}
+
+.col-more-product a{
+    color: var(--primary-color);
+}
+
 /* *--------------------- cart item ---------------------- */
 
 .card-page {
